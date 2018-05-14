@@ -1,4 +1,4 @@
-# sindresorhus [![Build Status](https://travis-ci.org/sindresorhus/sindresorhus.svg?branch=master)](https://travis-ci.org/sindresorhus/sindresorhus)
+# humantorch 
 
 > The [prayingmadness](https://prayingmadness.com) CLI
 
