@@ -2,7 +2,7 @@
 
 > The [prayingmadness](https://prayingmadness.com) CLI
 
-
+Travis status coming soon!
 
 
 ## Usage
