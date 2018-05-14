@@ -20,7 +20,7 @@ const handleSelect = item => {
 const items = [
 	{
 		label: 'Website',
-		url: 'https://prayingmadness.com'
+		url: 'http://prayingmadness.com'
 	},
 	{
 		label: 'Twitter',
@@ -29,6 +29,18 @@ const items = [
 	{
 		label: 'GitHub',
 		url: 'https://github.com/humantorch'
+	},
+	{
+		label: 'Instagram',
+		url: 'https://instagram.com/humantorch'
+	},
+	{
+		label: 'LinkedIn',
+		url: 'https://www.linkedin.com/in/scottkosman'
+	},
+	{
+		label: 'CV',
+		url: 'https://stackoverflow.com/cv/scottkosman'
 	},
 	// {
 	// 	label: 'Blog',
@@ -40,7 +52,7 @@ const items = [
 	// },
 	{
 		label: 'Contact',
-		url: 'https://prayingmadness.com/contact'
+		url: 'http://prayingmadness.com/contact'
 	},
 	// {
 	// 	label: 'Support my open source work',
