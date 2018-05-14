@@ -1,6 +1,6 @@
 # sindresorhus [![Build Status](https://travis-ci.org/sindresorhus/sindresorhus.svg?branch=master)](https://travis-ci.org/sindresorhus/sindresorhus)
 
-> The [Sindre Sorhus](https://sindresorhus.com) CLI
+> The [prayingmadness](https://prayingmadness.com) CLI
 
 <img src="screenshot.png" width="752">
 
@@ -10,7 +10,7 @@
 Install Node.js, then:
 
 ```
-$ npx sindresorhus
+$ npx humantorch
 ```
 
 
@@ -22,4 +22,4 @@ $ npx sindresorhus
 
 ## License
 
-MIT © [Sindre Sorhus](https://sindresorhus.com)
+MIT © [Scott Kosman](https://prayingmadness.com)

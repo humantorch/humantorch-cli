@@ -11,7 +11,7 @@ const ui = importJsx('./ui');
 
 meow(`
 	Usage
-	  $ sindresorhus
+	  $ humantorch
 `);
 
 const fallback = async () => {

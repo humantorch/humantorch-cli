@@ -1,13 +1,13 @@
 {
-	"name": "sindresorhus",
-	"version": "2.0.1",
-	"description": "The Sindre Sorhus CLI",
+	"name": "humantorch",
+	"version": "1.0.0",
+	"description": "The Scott Kosman CLI",
 	"license": "MIT",
-	"repository": "sindresorhus/sindresorhus",
+	"repository": "humantorch/humantorch",
 	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
+		"name": "Scott Kosman",
+		"email": "kosman.scott@gmail.com",
+		"url": "prayingmadness.com"
 	},
 	"bin": {
 		"sindresorhus": "source/cli.js"
@@ -24,8 +24,7 @@
 	"keywords": [
 		"cli-app",
 		"cli",
-		"sindresorhus",
-		"unicorns"
+		"humantorch"
 	],
 	"dependencies": {
 		"import-jsx": "^1.3.0",

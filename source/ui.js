@@ -20,40 +20,40 @@ const handleSelect = item => {
 const items = [
 	{
 		label: 'Website',
-		url: 'https://sindresorhus.com'
+		url: 'https://prayingmadness.com'
 	},
 	{
 		label: 'Twitter',
-		url: 'https://twitter.com/sindresorhus'
+		url: 'https://twitter.com/humantorch'
 	},
 	{
 		label: 'GitHub',
-		url: 'https://github.com/sindresorhus'
+		url: 'https://github.com/humantorch'
 	},
-	{
-		label: 'Blog',
-		url: 'https://blog.sindresorhus.com'
-	},
-	{
-		label: 'Ask Me Anything',
-		url: 'https://github.com/sindresorhus/ama'
-	},
+	// {
+	// 	label: 'Blog',
+	// 	url: 'https://blog.sindresorhus.com'
+	// },
+	// {
+	// 	label: 'Ask Me Anything',
+	// 	url: 'https://github.com/sindresorhus/ama'
+	// },
 	{
 		label: 'Contact',
-		url: 'https://sindresorhus.com/contact'
+		url: 'https://prayingmadness.com/contact'
 	},
-	{
-		label: 'Support my open source work',
-		url: 'https://www.patreon.com/sindresorhus'
-	},
-	{
-		label: 'Unicorns!',
-		async action() {
-			console.log(await terminalImage.file(path.join(__dirname, 'unicorn1.gif')));
-			console.log(await terminalImage.file(path.join(__dirname, 'unicorn2.gif')));
-			console.log(await terminalImage.file(path.join(__dirname, 'unicorn3.gif')));
-		}
-	},
+	// {
+	// 	label: 'Support my open source work',
+	// 	url: 'https://www.patreon.com/sindresorhus'
+	// },
+	// {
+	// 	label: 'Unicorns!',
+	// 	async action() {
+	// 		console.log(await terminalImage.file(path.join(__dirname, 'unicorn1.gif')));
+	// 		console.log(await terminalImage.file(path.join(__dirname, 'unicorn2.gif')));
+	// 		console.log(await terminalImage.file(path.join(__dirname, 'unicorn3.gif')));
+	// 	}
+	// },
 	// TODO: Add separator item here when https://github.com/vadimdemedes/ink-select-input/issues/4 is done
 	{
 		label: 'Quit',
@@ -67,7 +67,7 @@ module.exports = () => (
 	<div>
 		<br/>
 		<div>
-			<Text>I’m a full-time open-sourcerer making things like macOS apps, CLI tools, and modules.</Text>
+			<Text>I’m a Technical Director working on adidas dot com, based in sunny southern Germany.</Text>
 		</div>
 		<br/>
 		<SelectInput items={items} onSelect={handleSelect}/>
