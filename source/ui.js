@@ -21,6 +21,10 @@ const items = [
 		url: 'http://prayingmadness.com'
 	},
 	{
+		label: 'How To Scott (useful reading if you currently do or someday want to work for/with me)',
+		url: 'https://github.com/humantorch/how-to-scott'
+	},
+	{
 		label: 'Twitter',
 		url: 'https://twitter.com/humantorch'
 	},
@@ -47,7 +51,7 @@ const items = [
 	{
 		label: 'Quit',
 		action() {
-			process.exit(); 
+			process.exit();
 		}
 	}
 ];
