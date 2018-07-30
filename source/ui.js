@@ -18,7 +18,7 @@ const handleSelect = item => {
 const items = [
 	{
 		label: 'Website',
-		url: 'http://prayingmadness.com'
+		url: 'http://prayingmadness.github.io'
 	},
 	{
 		label: 'How To Scott (useful reading if you currently do or someday want to work for/with me)',
@@ -43,10 +43,6 @@ const items = [
 	{
 		label: 'CV',
 		url: 'https://stackoverflow.com/cv/scottkosman'
-	},
-	{
-		label: 'Contact',
-		url: 'http://prayingmadness.com/contact'
 	},
 	{
 		label: 'Quit',
