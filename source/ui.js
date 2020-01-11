@@ -17,32 +17,36 @@ const handleSelect = item => {
 
 const items = [
 	{
-		label: 'Website',
+		label: 'Some past projects – horribly out of date, maybe someday though!',
 		url: 'http://prayingmadness.github.io'
 	},
 	{
-		label: 'How To Scott (useful reading if you currently do or someday want to work for/with me)',
+		label: 'How To Scott – useful reading if you currently do or someday want to work for/with me',
 		url: 'https://github.com/humantorch/how-to-scott'
 	},
 	{
-		label: 'Twitter',
+		label: 'Twitter – mostly telling jokes and complaining about the Edmonton Oilers',
 		url: 'https://twitter.com/humantorch'
 	},
 	{
-		label: 'GitHub',
+		label: 'GitHub – if you\'re reading this you know what GitHub is',
 		url: 'https://github.com/humantorch'
 	},
 	{
-		label: 'Instagram',
+		label: 'Instagram – see what I had for lunch!',
 		url: 'https://instagram.com/humantorch'
 	},
 	{
-		label: 'LinkedIn',
+		label: 'LinkedIn – the premiere platform for ignoring recruiters',
 		url: 'https://www.linkedin.com/in/scottkosman'
 	},
 	{
-		label: 'CV',
+		label: 'CV - see what I used to do',
 		url: 'https://stackoverflow.com/cv/scottkosman'
+	},
+	{
+		label: 'Soapbox – I work here!',
+		url: 'https://soapboxhq.com'
 	},
 	{
 		label: 'Quit',
@@ -56,7 +60,7 @@ module.exports = () => (
 	<div>
 		<br/>
 		<div>
-			<Text>I’m a Technical Director working on adidas dot com, based in sunny southern Germany.</Text>
+			<Text>Currently working as Engineering Manager at Soapbox in Toronto. I enjoy leading teams building the next generation of stuff you do on this "internet" thing. Chaotic neutral. He/him.</Text>
 		</div>
 		<br/>
 		<SelectInput items={items} onSelect={handleSelect}/>
