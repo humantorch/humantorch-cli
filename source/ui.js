@@ -43,7 +43,7 @@ const items = [
 	{
 		label: 'CV - see what I used to do',
 		url: 'https://stackoverflow.com/cv/scottkosman'
-	}
+	},
 	{
 		label: 'Quit',
 		action() {
