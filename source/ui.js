@@ -17,6 +17,10 @@ const handleSelect = item => {
 
 const items = [
 	{
+		label: 'LinkedIn – the premiere platform for ignoring recruiters',
+		url: 'https://www.linkedin.com/in/scottkosman'
+	},
+	{
 		label: 'Some past projects – horribly out of date, maybe someday though!',
 		url: 'http://prayingmadness.github.io'
 	},
@@ -37,17 +41,9 @@ const items = [
 		url: 'https://instagram.com/humantorch'
 	},
 	{
-		label: 'LinkedIn – the premiere platform for ignoring recruiters',
-		url: 'https://www.linkedin.com/in/scottkosman'
-	},
-	{
 		label: 'CV - see what I used to do',
 		url: 'https://stackoverflow.com/cv/scottkosman'
-	},
-	{
-		label: 'Soapbox – I work here!',
-		url: 'https://soapboxhq.com'
-	},
+	}
 	{
 		label: 'Quit',
 		action() {
@@ -60,7 +56,7 @@ module.exports = () => (
 	<div>
 		<br/>
 		<div>
-			<Text>Currently working as Engineering Manager at Soapbox in Toronto. I enjoy leading teams building the next generation of stuff you do on this "internet" thing. Chaotic neutral. He/him.</Text>
+			<Text>Toronto based out-of-work Engineering Manager/Tech Director (thanks, COVID-19!). Open to Toronto or remote full-time opportunities, if you're hiring then I'm your guy! I enjoy leading teams building the next generation of stuff you do on this "internet" thing. Chaotic neutral. He/him.</Text>
 		</div>
 		<br/>
 		<SelectInput items={items} onSelect={handleSelect}/>
