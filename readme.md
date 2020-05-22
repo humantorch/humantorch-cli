@@ -1,6 +1,6 @@
 # humantorch 
 
-> The [prayingmadness](https://prayingmadness.com) CLI
+> The [humantorch](https://prayingmadness.github.io) CLI
 
 Travis status coming soon!
 
