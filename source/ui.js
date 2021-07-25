@@ -60,7 +60,7 @@ module.exports = () => (
 	<div>
 		<br />
 		<div>
-			<Text>Toronto-based Engineering Director at THRILLWORKS, a marketing/adtech agency. A recovering front-end developer who pivoted to management back in 2014, I now enjoy leading teams building the next generation of stuff you do on this "internet" thing. He/him.</Text>
+			<Text>Toronto-based Group Engineering Director at THRILLWORKS, a marketing/adtech agency. A recovering front-end developer who pivoted to management back in 2014, I now enjoy leading teams building the next generation of stuff you do on this "internet" thing. He/him.</Text>
 		</div>
 		<br />
 		<SelectInput items={items} onSelect={handleSelect} />
