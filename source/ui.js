@@ -53,6 +53,9 @@ const items = [
 		url: 'https://stackoverflow.com/cv/scottkosman',
 	},
 	{
+		label: '---------'
+	},
+	{
 		label: 'Quit',
 		action() {
 			process.exit();
