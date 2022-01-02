@@ -17,24 +17,24 @@ const handleSelect = (item) => {
 
 const items = [
 	{
-		label: 'LinkedIn – feel free to join my Professional Network™!',
-		url: 'https://www.linkedin.com/in/scottkosman',
-	},
-	{
-		label: 'Some past projects – a bit out of date, maybe someday though!',
-		url: 'http://prayingmadness.github.io',
-	},
-	{
-		label: 'How To Scott – useful reading if you currently do or someday want to work for/with me',
-		url: 'https://github.com/humantorch/how-to-scott',
-	},
-	{
 		label: 'Double Nines – where I work',
 		url: 'https://doublenines.co',
 	},
 	{
 		label: 'COOP by Ryder – the fruit of my team\'s collective effort',
 		url: 'https://coop.com',
+	},
+	{
+		label: 'How To Scott – useful reading if you currently do or someday want to work for/with me',
+		url: 'https://github.com/humantorch/how-to-scott',
+	},
+	{
+		label: 'LinkedIn – feel free to join my Professional Network™!',
+		url: 'https://www.linkedin.com/in/scottkosman',
+	},
+	{
+		label: 'Some past projects – a bit out of date, maybe someday though!',
+		url: 'http://prayingmadness.github.io',
 	},
 	{
 		label: 'Twitter – mostly telling jokes and complaining about the Edmonton Oilers',
