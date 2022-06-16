@@ -17,14 +17,6 @@ const handleSelect = (item) => {
 
 const items = [
 	{
-		label: 'Double Nines – where I work',
-		url: 'https://doublenines.co',
-	},
-	{
-		label: 'COOP by Ryder – the fruit of my team\'s collective effort',
-		url: 'https://coop.com',
-	},
-	{
 		label: 'How To Scott – useful reading if you currently do or someday want to work for/with me',
 		url: 'https://github.com/humantorch/how-to-scott',
 	},
@@ -67,7 +59,7 @@ module.exports = () => (
 	<div>
 		<br />
 		<div>
-			<Text>Toronto-based Engineering Director at Double Nines leading the development efforts on the COOP platform. A recovering front-end developer who pivoted to management back in 2014, I now enjoy leading teams building the next generation of stuff you do on this "internet" thing. He/him.</Text>
+			<Text>Toronto area-based Technology Strategy and Management consultant. A recovering front-end developer who pivoted to management back in 2014, I now enjoy leading teams building the next generation of stuff you do on this "internet" thing. Currently available for contract or full-time Engineering Management and Direction roles, feel free to reach out! He/him</Text>
 		</div>
 		<br />
 		<SelectInput items={items} onSelect={handleSelect} />
