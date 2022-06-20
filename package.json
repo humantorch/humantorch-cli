@@ -1,6 +1,6 @@
 {
 	"name": "humantorch",
-	"version": "1.0.20",
+	"version": "1.0.28",
 	"description": "The Scott Kosman CLI",
 	"license": "MIT",
 	"repository": "humantorch/humantorch",
@@ -10,7 +10,7 @@
 		"url": "prayingmadness.github.io"
 	},
 	"bin": {
-		"sindresorhus": "source/cli.js"
+		"humantorch": "source/cli.js"
 	},
 	"engines": {
 		"node": ">=8"
