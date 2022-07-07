@@ -17,16 +17,16 @@ const handleSelect = (item) => {
 
 const items = [
 	{
+		label: 'Some more info about me',
+		url: 'http://prayingmadness.com',
+	},
+	{
 		label: 'How To Scott - useful reading if you currently do or someday want to work for/with me',
-		url: 'https://github.com/humantorch/how-to-scott',
+		url: 'https://prayingmadness.com/post/readme/',
 	},
 	{
 		label: 'LinkedIn - feel free to join my Professional Network™!',
 		url: 'https://www.linkedin.com/in/scottkosman',
-	},
-	{
-		label: 'Some past projects - a bit out of date, maybe someday though!',
-		url: 'http://prayingmadness.github.io',
 	},
 	{
 		label: 'Twitter - mostly telling jokes and complaining about the Edmonton Oilers',
@@ -42,7 +42,7 @@ const items = [
 	},
 	{
 		label: 'CV - see what I used to do',
-		url: 'https://www.dropbox.com/s/n4iwti1gm67i0op/skosman_resume2022.pdf?dl=0',
+		url: 'https://prayingmadness.com/skosman_resume2022.pdf',
 	},
 	{
 		label: '---------'
