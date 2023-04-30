@@ -17,16 +17,12 @@ const handleSelect = (item) => {
 
 const items = [
 	{
-		label: 'Exos - where I work',
-		url: 'https://teamexos.com',
-	},
-	{
 		label: 'Some more info about me',
-		url: 'https://prayingmadness.com',
+		url: 'https://scottkosman.com',
 	},
 	{
 		label: 'How To Scott - useful reading if you currently do or someday want to work for/with me',
-		url: 'https://prayingmadness.com/post/readme/',
+		url: 'https://scottkosman.com/post/readme/',
 	},
 	{
 		label: 'LinkedIn - feel free to join my Professional Network™!',
@@ -46,7 +42,7 @@ const items = [
 	},
 	{
 		label: 'CV - see what I used to do',
-		url: 'https://prayingmadness.com/skosman_resume2022.pdf',
+		url: 'https://scottkosman.com/skosman_resume2022.pdf',
 	},
 	{
 		label: '---------'
@@ -63,7 +59,7 @@ module.exports = () => (
 	<div>
 		<br />
 		<div>
-			<Text>Toronto-based Engineering Manager at Exos, 20 year vet of the technology, marketing, and digital strategy world. A recovering front-end developer who pivoted to management back in 2014, I now enjoy leading teams building the next generation of stuff you do on this "internet" thing. He/him.</Text>
+			<Text>Toronto-based Engineering Manager and technical leader, 20 year vet of the technology, marketing, and digital strategy world. A recovering front-end developer who pivoted to management back in 2014, I now enjoy leading teams building the next generation of stuff you do on this "internet" thing. He/him.</Text>
 		</div>
 		<br />
 		<SelectInput items={items} onSelect={handleSelect} />

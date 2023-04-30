@@ -1,13 +1,13 @@
 {
 	"name": "humantorch",
-	"version": "1.0.31",
+	"version": "1.0.32",
 	"description": "The Scott Kosman CLI",
 	"license": "MIT",
 	"repository": "humantorch/humantorch",
 	"author": {
 		"name": "Scott Kosman",
 		"email": "kosman.scott@gmail.com",
-		"url": "prayingmadness.github.io"
+		"url": "scottkosman.com"
 	},
 	"bin": {
 		"humantorch": "source/cli.js"
