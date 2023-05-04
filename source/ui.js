@@ -45,6 +45,10 @@ const items = [
 		url: 'https://scottkosman.com/skosman_resume2023.pdf',
 	},
 	{
+		label: 'The @humantorch CLI git repo',
+		url: 'https://github.com/humantorch/humantorch-cli',
+	}
+	{
 		label: '---------'
 	},
 	{
