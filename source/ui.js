@@ -42,7 +42,7 @@ const items = [
 	},
 	{
 		label: 'CV - see what I used to do',
-		url: 'https://scottkosman.com/skosman_resume2022.pdf',
+		url: 'https://scottkosman.com/skosman_resume2023.pdf',
 	},
 	{
 		label: '---------'
