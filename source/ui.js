@@ -47,7 +47,7 @@ const items = [
 	{
 		label: 'The @humantorch CLI git repo',
 		url: 'https://github.com/humantorch/humantorch-cli',
-	}
+	},
 	{
 		label: '---------'
 	},
