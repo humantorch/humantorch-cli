@@ -21,6 +21,10 @@ const items = [
 		url: 'https://scottkosman.com',
 	},
 	{
+		label: 'Where I work',
+		url: 'https://formula.co',
+	},
+	{
 		label: 'How To Scott - useful reading if you currently do or someday want to work for/with me',
 		url: 'https://scottkosman.com/post/readme/',
 	},
@@ -63,7 +67,7 @@ module.exports = () => (
 	<div>
 		<br />
 		<div>
-			<Text>Toronto-based Engineering Manager and technical leader, 20 year vet of the technology, marketing, and digital strategy world. A recovering front-end developer who pivoted to management back in 2014, I now enjoy leading teams building the next generation of stuff you do on this "internet" thing. He/him.</Text>
+			<Text>Toronto-based Engineering Manager at Media.Monks, 20 year vet of the technology, marketing, and digital strategy world. A recovering front-end developer who pivoted to management back in 2014, I now enjoy leading teams building the next generation of stuff you do on this "internet" thing. He/him.</Text>
 		</div>
 		<br />
 		<SelectInput items={items} onSelect={handleSelect} />
