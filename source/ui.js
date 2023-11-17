@@ -22,7 +22,7 @@ const items = [
 	},
 	{
 		label: 'Where I work',
-		url: 'https://formula.co',
+		url: 'https://1password.com',
 	},
 	{
 		label: 'How To Scott - useful reading if you currently do or someday want to work for/with me',
@@ -67,7 +67,7 @@ module.exports = () => (
 	<div>
 		<br />
 		<div>
-			<Text>Toronto-based Engineering Manager at Media.Monks, 20 year vet of the technology, marketing, and digital strategy world. A recovering front-end developer who pivoted to management back in 2014, I now enjoy leading teams building the next generation of stuff you do on this "internet" thing. He/him.</Text>
+			<Text>Toronto-based Engineering Manager at 1Password, 20+ year vet of the technology, marketing, and digital strategy world. A recovering front-end developer who pivoted to management back in 2014, I now enjoy leading teams building the next generation of stuff you do on this "internet" thing. He/him.</Text>
 		</div>
 		<br />
 		<SelectInput items={items} onSelect={handleSelect} />
