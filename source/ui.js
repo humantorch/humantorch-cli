@@ -33,10 +33,6 @@ const items = [
 		url: 'https://www.linkedin.com/in/scottkosman',
 	},
 	{
-		label: 'Twitter - mostly telling jokes and complaining about the Edmonton Oilers',
-		url: 'https://twitter.com/humantorch',
-	},
-	{
 		label: "GitHub - if you're reading this you know what GitHub is",
 		url: 'https://github.com/humantorch',
 	},
