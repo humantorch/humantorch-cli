@@ -3,7 +3,10 @@
 	"version": "1.0.40",
 	"description": "The Scott Kosman CLI",
 	"license": "MIT",
-	"repository": "humantorch/humantorch",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/humantorch/humantorch.git"
+	},
 	"author": {
 		"name": "Scott Kosman",
 		"email": "kosman.scott@gmail.com",
