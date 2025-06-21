@@ -2,7 +2,7 @@
 
 > Redirect to the new [Scott Kosman CLI](https://github.com/humantorch/scottkosman-cli)
 
-This package has been deprecated in favor of a much newer, better, sexier version at [@humantorch/scottkosman-cli](https://github.com/humantorch/scottkosman-cli).
+This package has been deprecated in favor of a much newer, better, sexier version at [@humantorch/scottkosman-cli](https://github.com/humantorch/scottkosman-cli). I'm leaving this repo here for historical posterity but will no longer be maintaining it. Go check out the new one, fork it, make your own, be popular!!!!
 
 ## Usage
 
